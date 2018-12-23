@@ -32,5 +32,6 @@ class Client2
    Projectmanager p = new Developer();
    p.task1();
    p.task2();
+   p.task2();
   }
 }
